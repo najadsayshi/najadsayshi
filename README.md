@@ -2,7 +2,9 @@
 
 # Hey there! I'm Najad 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=440&lines=Python+Developer+%F0%9F%90%8D;C+%7C+Java+%7C+JavaScript+Coder;Open+Source+Enthusiast;Football+%26+Gaming+Lover+%F0%9F%8E%AE%E2%9A%BD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=MSc+AI+%26+Data+Science+%40+Liverpool+%F0%9F%87%AC%F0%9F%87%A7;Full-Stack+Python+Developer+%F0%9F%90%8D;REST+API+%7C+Django+%7C+PostgreSQL;AI+Integration+%7C+TensorFlow;150%2B+LeetCode+Problems+Solved+%F0%9F%8F%86)](https://git.io/typing-svg)
+
+📍 Liverpool, UK &nbsp;|&nbsp; 📧 mrnajadas@gmail.com
 
 </div>
 
@@ -10,25 +12,70 @@
 
 ### 👨‍💻 About Me
 
-- 🐍 **Python** is my main language — I love it!
-- 💻 Also code in **C**, **Java**, and **JavaScript**
-- 🌱 Always learning and growing as a developer
-- 🤝 Looking to collaborate on beginner-friendly projects
+- 🎓 **MSc Advanced Data Science & AI** — University of Liverpool *(2025–Present)*
+- 🏫 **B.Tech Computer Science** — APJ Abdul Kalam Technological University *(2021–2025)*
+- 🐍 **Python** is my main language — I love building secure, scalable backends
+- 💻 Also code in **C**, **Java**, and **JavaScript/TypeScript**
+- 🤖 Experienced in integrating **AI/ML models** into production environments
+- 🔐 Passionate about **secure architecture**, **RBAC**, and **data privacy**
+- 🏆 Solved **150+ algorithmic challenges** on LeetCode
 - 🎮 Hobbies: **Coding**, **Gaming**, and **Football**
 - 📫 Reach me at: **mrnajadas@gmail.com**
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Tech | Highlights |
+|---|---|---|
+| 🤖 **Real-Time AI Alert System** | Python, Django, PostgreSQL, TensorFlow | AI inference module, alerts dispatched within **30 seconds**, secure event logging |
+| 💼 **JobBoard Platform** | Django, PostgreSQL, JavaScript | Full-stack RBAC portal, **30% faster** API response times, production-deployed |
+| 📝 **NoteBase API** | Python, Django, PostgreSQL | Secure REST API, CRUD operations, optimized DB indexing & search |
+
+---
+
+### 💼 Experience
+
+- 🖥️ **Software Developer Intern** @ Techbyheart *(May 2023)* — Reduced latency by **25%**, integrated secure REST APIs
+- 📱 **Mobile App Development Intern** @ iPlanet Education *(Sep 2022)* — MVC architecture, clean code, unit testing
+
+---
+
+### 🏆 Achievements & Certifications
+
+- 🥇 **NPTEL Python Certification** ��� IIT Madras *(2022)*
+- 🗣️ **Cambridge BEC B1** — Business English Certificate *(2023)*
+- 💡 **150+ LeetCode Problems** solved — Active hackathon participant
 
 ---
 
@@ -82,6 +129,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=najadsayshi&color=6ad3f7&style=flat-square&label=Profile+Views)
 
-*"Code is like humor. When you have to explain it, it's bad."* 😄
+*"First, solve the problem. Then, write the code."* 💡
 
 </div>
