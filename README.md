@@ -7,7 +7,10 @@
 📍 Liverpool, UK &nbsp;|&nbsp; 📧 mrnajadas@gmail.com
 
 </div>
-
+<div>
+  GITHUB
+  [![GitHub Streak](https://streak-stats.demolab.com?user=github.com%2Fnajadsayshi)](https://git.io/streak-stats)
+</div>
 ---
 
 ### 👨‍💻 About Me
