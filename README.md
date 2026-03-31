@@ -92,6 +92,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=najadsayshi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+
 </div>
 
 ---
@@ -101,6 +102,7 @@
 <div align="center">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/mrnajadas?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/mrnajadas/)
+[![GitHub Streak](https://streak-stats.demolab.com?user=githu.com%2Fnajadsayshi)](https://git.io/streak-stats)
 
 </div>
 
