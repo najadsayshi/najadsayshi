@@ -81,12 +81,12 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=najadsayshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najadsayshi&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
-</div>
+</div> -->
 
 <div align="center">
 
@@ -102,7 +102,6 @@
 <div align="center">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/mrnajadas?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/mrnajadas/)
-[![GitHub Streak](https://streak-stats.demolab.com?user=githu.com%2Fnajadsayshi)](https://git.io/streak-stats)
 
 </div>
 
